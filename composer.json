@@ -1,0 +1,17 @@
+{
+  "name": "easydot/batch-update",
+  "description": "Batch Update",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Easydot\\BatchUpdate\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "EASYDOT CREATIVE"
+    }
+  ],
+  "require": {}
+}
